@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am a Computer Engineering student and a Front End developer that sometimes ventures on backend as well. I am also very interested in the cybersecurity area, as having knowledge of the most common vulnerabilities, you will be able to avoid them in the projects to be developed.
+I'm a Computer Engineering student at UFPE. I work mainly as a Front-end developer, but also, a little bit as a Back-end developer. I'm passionate about Cybersecurity, because knowing the most common vulnerabilities makes much more easy to avoid those threats on the projects under development.
 </p>
 </div>
 
