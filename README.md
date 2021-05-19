@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I'm a Computer Engineering student at UFPE. I work mainly as a Front-end developer, but also, a little bit as a Back-end developer. I'm passionate about Cybersecurity, because knowing the most common vulnerabilities makes much more easy to avoid those threats on the projects under development.
+I'm a Computer Engineering student at UFPE. I work mainly as a Front-end developer, but also take my chances as a Back-end developer. I'm passionate about Cybersecurity, because knowing the most common vulnerabilities makes much more easy to avoid those threats on the projects under development.
 </p>
 </div>
 
