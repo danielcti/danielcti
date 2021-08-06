@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm Daniel P. Cavalcanti
-> Software Developer at [Justa Pagamentos](https://justa.com.vc/)
+> Full stack developer
 
 
 <img src="https://komarev.com/ghpvc/?username=danielcti" alt="danielcti" />
