@@ -31,8 +31,8 @@ I'm a Computer Engineering student at UFPE. I work mainly as a Front-end develop
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danielcti&repo=lispector&show_owner=true)](https://github.com/danielcti/lispector)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danielcti&repo=random-actor-quiz&show_owner=true)](https://github.com/danielcti/random-actor-quiz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danielcti&repo=stolen-bikes&show_owner=true)](https://github.com/danielcti/stolen-bikes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danielcti&repo=custom-lofi-pomodoro&show_owner=true)](https://github.com/danielcti/custom-lofi-pomodoro)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
