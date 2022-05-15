@@ -17,8 +17,8 @@ I'm a Computer Engineering student at UFPE. I work mainly as a Front-end develop
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="24">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width="38">](https://nodejs.org/en/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="24">](https://pt-br.reactjs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24">](https://angular.io/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://www.python.org/)
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="24">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" width="38">](https://nodejs.org/en/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="24">](https://pt-br.reactjs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24">](https://angular.io/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://www.python.org/) |  [<img src="https://go.dev/images/go-logo-white.svg" alt="Go" width="24">](https://go.dev/)
+|---|---|---|---|---|---|
  
 ### Tools 🛠️
 
