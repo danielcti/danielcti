@@ -38,5 +38,5 @@ I'm a Computer Engineering student at UFPE. I work mainly as a Front-end develop
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dpc2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@dpc2-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:dpc2@cin.ufpe.br"><img alt="Email" src="https://img.shields.io/badge/Email-dpc2@cin.ufpe.br-blue?style=flat&logo=gmail"></a>
+<a href="mailto:daniel.pcavalcanti98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniel.pcavalcanti98@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
